@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pessoa</string>
+    <string name="editName">Nome</string>
+    <string name="editPhone">Telefone</string>
+    <string name="idPais">+55</string>
+    <string name="editEmail">Email</string>
+    <string name="editAddress">Endereço</string>
+    <string name="button">Enviar</string>
+</resources>
